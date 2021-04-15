@@ -1,7 +1,7 @@
 # Project Mindfulness #
 ## Description ##
 -----------------
-***Project Mindfullness is an initiative to improve societal understanding of mindfulness by way of data science and computer programming.***
+***Project Mindfulness is an initiative to improve societal understanding of mindfulness by way of data science and computer programming.***
 
 ***This project is 100% free (as in freedom) and open source. Feel free to contribute!***
 

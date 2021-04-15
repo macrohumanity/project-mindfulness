@@ -5,7 +5,7 @@
 
 ***This project is 100% free (as in freedom) and open source. Feel free to contribute!***
 
-**Mindfulness: **
+**Mindfulness:**
 *observing (physical or mental, positive or negative) followed by describing (internally or externally). A person skilled in mindfulness will then fully bring the mind back to baseline through an act of awareness while simultaneously accepting the observation without judgment.*
 
 

@@ -12,11 +12,11 @@
 
 ## Table of Contents ## 
 -----------------------
-1. [Project Mindfulness - Article]()
-2. [Isolated Item Visualizations]()
-3. [Source Code Part One]()
-4. [Source Code Part Two]()
-5. [Raw Dataset]()
+1. [Project Mindfulness - Article](https://github.com/macrohumanity/Project-Mindfulness/blob/master/Project%20Mindfulness%20-%20Article.pdf)
+2. [Isolated Item Visualizations](https://github.com/macrohumanity/Project-Mindfulness/blob/master/Item%20Visualizations.pdf)
+3. [Source Code Part One](https://github.com/macrohumanity/Project-Mindfulness/blob/master/source/Source%20Code%20-%20Part%20One.pdf)
+4. [Source Code Part Two](https://github.com/macrohumanity/Project-Mindfulness/blob/master/source/Source%20Code%20-%20Part%20Two.pdf)
+5. [Modified Dataset](https://github.com/macrohumanity/Project-Mindfulness/blob/master/datasets/Modified%20Dataset.csv)
 6. [KIMS Assessment Tool - PDF Download](http://ruthbaer.com/academics/KIMS.pdf)
 
 

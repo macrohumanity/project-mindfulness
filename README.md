@@ -42,3 +42,5 @@
 
 ## Inquiries and Support ##
 *Please contact me via email: 1rcummin@protonmail.com*
+
+*Shoutout to Sarah Jylkka for final article revision!*
